@@ -1,0 +1,2 @@
+Wow I'm really learning code using the command line, github, etc.
+All thanks to The Odin Project!
