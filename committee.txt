@@ -1,0 +1,1 @@
+This is me using VSCode as the text editor! Pretty cool how I can use both the terminal AND vscode to connect with git ! 
